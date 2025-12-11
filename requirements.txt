@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+asyncpg
+aiohttp
+beautifulsoup4
+nltk
+pydantic-settings
+lxml
