@@ -1,6 +1,8 @@
 # MarketSentiment-Agent
 
 A real-time pipeline that scrapes financial news, analyzes sentiment, and stores it for correlation with stock prices.
+<img width="1910" height="831" alt="Screenshot 2025-12-11 204914" src="https://github.com/user-attachments/assets/6e6969ca-51d9-4230-9801-b9794439a75a" />
+
 
 ## Tech Stack
 - **Language**: Python 3.10+
